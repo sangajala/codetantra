@@ -23569,7 +23569,7 @@ p.disc.banner-para {
 }
 
 .single-counter .counter-details .title.happy span::after {
-    content: "k+";
+    content: "+";
     right: -60px;
 }
 
